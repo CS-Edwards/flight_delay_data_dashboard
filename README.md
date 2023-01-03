@@ -8,3 +8,4 @@ Interactive flight data dashboard in Plotly Dash using Linear Regression and Dec
 Clone repo and launch `index.py` locally: http://127.0.0.1:8050/
 
 
+![](https://github.com/CS-Edwards/flight_delay_data_dashboard/dashboard_gif.gif)
